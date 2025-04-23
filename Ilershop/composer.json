@@ -1,0 +1,12 @@
+
+{
+    "name": "antonio/ilershop",
+    "autoload": {
+        "psr-4": {
+            "Antonio\\Ilershop\\": "src/"
+        }
+    },
+    "require": {
+        "laravel/framework": "^10.0"
+    }
+}
